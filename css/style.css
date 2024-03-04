@@ -1,0 +1,16 @@
+html{
+    background: url(../img/chalkboard-background.jpeg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+}
+body{
+    color: #E3DCED;
+    font-family: "Gill Sans", sans-serif;
+    }
+a{
+    color: #C5A7F3
+}
+h1, h2, h3, h4, h5, h6{
+    font-family:Georgia, serif;
+}

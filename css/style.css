@@ -4,13 +4,33 @@ html{
     -moz-background-size: cover;
     -o-background-size: cover;
 }
+
 body{
     color: #E3DCED;
     font-family: "Gill Sans", sans-serif;
-    }
+}
+
 a{
     color: #C5A7F3
 }
+
 h1, h2, h3, h4, h5, h6{
     font-family:Georgia, serif;
+}
+
+h1 {
+    color: #934dfd;
+    text-align: center;
+}
+
+.pics {
+    width: 300px;
+}
+
+.recipe-card {
+    background-color: #3d197480;
+    width: fit-content;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
